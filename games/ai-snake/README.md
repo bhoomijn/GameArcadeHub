@@ -1,17 +1,12 @@
-# Snake Game AI
+# AI Snake Game 🐍
+
+A browser-based Snake game built with JavaScript and canvas.
 
 ## How to play
-- Use the Arrow Keys to move the snake.
-- Eat the red food blocks to increase your score.
-- Avoid hitting the walls or your own body.
-- Use the restart button to play again.
-
-## Features
-- Score tracking
-- High score tracking
-- Restart flow
-- Responsive canvas UI
-- Browser-based gameplay
+- Use arrow keys to move the snake
+- Eat red food blocks to score points
+- Avoid walls and your own body
+- Press restart to begin a new round
 
 ## How to run
-Open `index.html` in a browser.
+Open `index.html` in any browser.

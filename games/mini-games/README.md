@@ -1,28 +1,18 @@
-# Snake-Water-Gun Game 🎮
+# Mini Games Hub 🎮
 
-A Python implementation of the classic Snake-Water-Gun game with multiple rounds and score tracking.
+A Python mini-game project featuring a classic Snake-Water-Gun game.
 
-## Game rules
-- Snake drinks Water → Snake wins
-- Water drowns Gun → Water wins
-- Gun kills Snake → Gun wins
-- Same choice → Draw
-
-## Features
-- Multiple rounds with score tracking
-- Input validation for user choices
-- Replay option after each match
-- Simple terminal-based gameplay
-
-## How to run
+## How to play
 ```bash
 python snake_water_gun.py
 ```
 
-## Example gameplay
-```text
-Round 1: Enter your choice (snake, water, gun): snake
-Computer chose: water
-🐍 Snake drank the water! You win!
-Score → You: 1, Computer: 0
-```
+## Rules
+- Snake drinks Water
+- Water drowns Gun
+- Gun kills Snake
+
+## Features
+- score tracking
+- replay option
+- input validation
