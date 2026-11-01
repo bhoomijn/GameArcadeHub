@@ -8,6 +8,7 @@
 A curated collection of small interactive games built to practice problem-solving, logic, UI handling, and game development fundamentals using Python and JavaScript.
 
 ## Overview
+
 This repository brings together multiple game projects into one clean, portfolio-ready gaming showcase. It demonstrates practical coding skills through simple, interactive builds ranging from terminal-based games to browser arcade gameplay.
 
 ## Why this repository matters
