@@ -9,4 +9,5 @@ A browser-based Snake game built with JavaScript and canvas.
 - Press restart to begin a new round
 
 ## How to run
+
 Open `index.html` in any browser.
